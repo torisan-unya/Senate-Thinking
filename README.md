@@ -20,7 +20,7 @@ For a detailed abstract and summaries, refer to the paper itself.
 ## Paper Location
 
 The full paper is available in this repository at:  
-[papers/01_Senate_Thinking.md](papers/01_Senate_Thinking.md)
+[papers/Senate01_Senate_Thinking.md](papers/Senate01_Senate_Thinking.md)
 
 ## Key Sections
 
@@ -48,7 +48,3 @@ This paper was developed through human-AI collaboration using tools like GROK, G
 ## Contact
 
 For inquiries, contact the author via ORCID or open an issue in this repository.
-
---- 
-
-This README is designed to be concise, informative, and engaging, highlighting the paper's structure and value while encouraging community interaction.
