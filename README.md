@@ -1,4 +1,4 @@
-# Senate Thinking Repository
+# Senate Thinking
 
 Welcome to the GitHub repository for the position paper: **Senate Thinking: Positioning AI in the Assembly of Human Knowledge**. This repository serves as an open archive for the paper, facilitating access, discussion, and potential collaboration on the conceptual framework proposed.
 
