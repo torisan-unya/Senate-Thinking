@@ -2,6 +2,8 @@
 
 Welcome to the GitHub repository for the position paper: **Senate Thinking: Positioning AI in the Assembly of Human Knowledge**. This repository serves as an open archive for the paper, facilitating access, discussion, and potential collaboration on the conceptual framework proposed.
 
+This repository is part of the [Agora-Supercluster](https://github.com/torisan-unya/Agora-Supercluster), the central hub for repositories advancing Human-AI Collaboration (HAC).
+
 ## Overview
 
 This position paper introduces "Senate Thinking" as a metaphorical framework for integrating artificial intelligence (AI) into humanity's collective knowledge assembly. Drawing on historical analogies like the Roman Senate's expansion, early modern commercial networks (e.g., Dutch East India Company), and Indigenous governance models (e.g., Haudenosaunee Confederacy), it applies World-Systems Theory to explore power dynamics in AI-human collaboration. The core contribution is four first principles: **Selection, Weighting, Oversight, and Exclusion**, designed to ensure human-centered governance while mitigating risks like epistemic dependency or bias.
