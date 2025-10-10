@@ -43,6 +43,22 @@ Full paper: [papers/Senate01_Senate_Thinking.md](papers/Senate01_Senate_Thinking
 - **Contribute:** Open issues for critiques/extensions (e.g., domain applications, visualizations) or submit PRs.
 - **Cite:** Unya, T. (2025). *Senate Thinking: Positioning AI in the Assembly of Human Knowledge*. arXiv preprint (v25). [Repo URL].
 
+## License
+
+This project is licensed under a combination of the MIT License and a patent license addendum. This structure provides legal clarity and protection for all users and contributors. The complete license agreement consists of the following two documents:
+
+*   **[`LICENSE.md`](LICENSE.md)**: The primary copyright license (MIT License) governing the use of the software.
+*   **[`PATENT_LICENSE_ADDENDUM.md`](PATENT_LICENSE_ADDENDUM.md)**: An integral addendum that grants a license to essential patent claims held by contributors.
+
+### To Our Users
+
+You are granted the right to use this software under the terms of the MIT License, supplemented by a patent license from all contributors, **providing enhanced legal protection and clarity** for all parties.
+
+### To Our Contributors
+
+Thank you for considering a contribution! Please be aware that by submitting any contribution (such as a pull request), you are explicitly agreeing to the terms of the entire license agreement, including the patent grant outlined in **[`PATENT_LICENSE_ADDENDUM.md`](PATENT_LICENSE_ADDENDUM.md)**. This is a crucial measure to protect the project, its community, and its future.
+
+
 ## Acknowledgments
 
 Developed via human-AI collaboration (GROK, Gemini, ChatGPT, Claude); author retains full responsibility.
