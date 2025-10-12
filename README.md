@@ -4,6 +4,9 @@ Welcome to the GitHub repository for the position paper: **Senate Thinking: Posi
 
 Part of the [Agora-Supercluster](https://github.com/torisan-unya/Agora-Supercluster), this project advances Human-AI Collaboration (HAC) principles.
 
+Authored by Torisan Unya (Independent Researcher, ORCID: [0009-0004-7067-9765](https://orcid.org/0009-0004-7067-9765)). 
+Licensed under **MIT + Patent License Addendum** (see [License](#license)).
+
 ## Overview
 
 The paper introduces "Senate Thinking"—a metaphorical framework for integrating AI into humanity's collective knowledge assembly. It draws on historical analogies (e.g., Roman Senate expansion, Dutch East India Company governance, Haudenosaunee Confederacy consensus) and applies World-Systems Theory to analyze power dynamics. Core contribution: four first principles (**Selection, Weighting, Oversight, Exclusion**) for human-centered governance, mitigating risks like epistemic dependency and bias.
